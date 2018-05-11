@@ -1,3 +1,4 @@
+import Foundation
 @objc public class SPM_library {
 	public init(){
 	
