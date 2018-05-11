@@ -1,4 +1,4 @@
-public struct SPM_library {
+@objc public struct SPM_library {
 	public init(){
 	
 	}
